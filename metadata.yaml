@@ -1,0 +1,30 @@
+_repo: An-Australian-in-ChinaBeing-the-Narrative-of-a-Quiet-Journey-Across-China-to-Burma_19172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrison, George Ernest
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '8535'
+    url: http://www.gutenberg.org/2009/agents/8535
+    wikipedia: http://en.wikipedia.org/wiki/George_Ernest_Morrison
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2006-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Description and travel'
+- !lcc 'DS'
+title: 'An Australian in China
+
+  Being the Narrative of a Quiet Journey Across China to Burma'
+url: http://www.gutenberg.org/ebooks/19172
